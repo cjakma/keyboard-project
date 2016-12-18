@@ -1,0 +1,320 @@
+[
+  {
+    "backcolor": "#222222",
+    "name": "No-Name Project",
+    "author": "Ryan MacLean (github.com/ryanmaclean)",
+    "switchMount": "MX Equivalent",
+    "switchBrand": "Gateron",
+    "switchType": "Brown",
+    "plate": true
+  },
+  [
+    {
+      "x": 1.25,
+      "c": "#393b3b",
+      "t": "#aaaaaa",
+      "p": "DCS R5"
+    },
+    "⎋\nEsc",
+    {
+      "x": 1.5,
+      "a": 0
+    },
+    "F1\n\n\n\n<i class='fa fa-volume-off'></i>",
+    "F2\n\n\n\n<i class='fa fa-volume-down'></i>",
+    "F3\n\n\n\n<i class='fa fa-volume-up'></i>",
+    {
+      "a": 4
+    },
+    "F4",
+    {
+      "x": 0.25,
+      "a": 0
+    },
+    "F5\n\n\n\n<i class='fa fa-fast-backward'></i>",
+    "F6\n\n\n\n<i class='fa fa-play'></i>\n\n\n\n\n\n\n<i class='fa fa-pause'></i>",
+    "F7\n\n\n\n<i class='fa fa-fast-forward'></i>",
+    {
+      "a": 4
+    },
+    "F8",
+    {
+      "x": 0.25,
+      "a": 0
+    },
+    "F9\n\n\n\n<i class='fa fa-gear'></i>",
+    "F10\n\n\n\n<i class='fa fa-gamepad'></i>",
+    "F11\n\n\n\n<i class='fa fa-minus'></i>",
+    "F12\n\n\n\n<i class='fa fa-plus'></i>",
+    {
+      "x": 0.25,
+      "a": 4
+    },
+    "Print\nSysReq\n\n\n\n\nScreen",
+    "Scroll\n\n\n\n\n\nLock",
+    {
+      "a": 0
+    },
+    "Pause\nBreak\n\n\n<i class='fa fa-moon-o'></i>"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 20.75,
+      "a": 7,
+      "d": true
+    },
+    "<i class='fa fa-gamepad'></i>"
+  ],
+  [
+    {
+      "y": -0.25,
+      "a": 4
+    },
+    "Undo\n<i class='fa fa-rotate-left'></i>",
+    {
+      "x": 0.25
+    },
+    "~\n`",
+    "!\n1",
+    "@\n2&nbsp;",
+    "#\n3&nbsp;",
+    "$\n4&nbsp;",
+    "%\n5&nbsp;",
+    "^\n6&nbsp;",
+    "&\n7&nbsp;",
+    "*\n8&nbsp;",
+    "(\n9&nbsp;",
+    ")\n0&nbsp;",
+    "-&nbsp;\n_",
+    "=&nbsp;\n+",
+    {
+      "w": 2
+    },
+    "Backspace",
+    {
+      "x": 0.25
+    },
+    "Insert",
+    "Home",
+    "Page\n\n\n\n\n\nUp",
+    {
+      "x": 0.25
+    },
+    "Num\n\n\n\n\n\nLock",
+    "/",
+    "*",
+    "-"
+  ],
+  [
+    "Paste\n<i class='fa fa-paste'></i>",
+    {
+      "x": 0.25,
+      "w": 1.5
+    },
+    "Tab",
+    "Q",
+    {
+      "n": true
+    },
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    "{\n[",
+    "}\n]",
+    {
+      "w": 1.5
+    },
+    "|\n\\",
+    {
+      "x": 0.25
+    },
+    "Del",
+    "End",
+    "Page\n\n\n\n\n\nDown",
+    {
+      "x": 0.25
+    },
+    "7\nHome",
+    "8\n↑",
+    "9\nPg Up",
+    {
+      "p": "DCS",
+      "fa": [
+        2
+      ],
+      "h": 2
+    },
+    "+"
+  ],
+  [
+    {
+      "p": "DCS R3",
+      "f": 3
+    },
+    "Copy\n<i class='fa fa-copy'></i>",
+    {
+      "x": 0.25,
+      "f": 3,
+      "w": 1.75
+    },
+    "Control\n\n⌃",
+    {
+      "f": 3
+    },
+    "A",
+    {
+      "f": 3
+    },
+    "S",
+    {
+      "f": 3
+    },
+    "D",
+    {
+      "f": 3,
+      "n": true
+    },
+    "F",
+    {
+      "f": 3
+    },
+    "G",
+    {
+      "f": 3
+    },
+    "H",
+    {
+      "f": 3,
+      "n": true
+    },
+    "J",
+    {
+      "f": 3
+    },
+    "K",
+    {
+      "f": 3
+    },
+    "L",
+    {
+      "f": 3
+    },
+    ":\n;",
+    {
+      "f": 3
+    },
+    "\"\n'",
+    {
+      "f": 2,
+      "w": 2.25
+    },
+    "Enter",
+    {
+      "x": 3.5,
+      "f": 3
+    },
+    "4\n←",
+    {
+      "n": true
+    },
+    "5",
+    "6\n→"
+  ],
+  [
+    {
+      "p": "DCS R2"
+    },
+    "Cut\n<i class='fa fa-cut'></i>",
+    {
+      "x": 0.25,
+      "w": 2.25
+    },
+    "↑&nbsp;Shift",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "w": 2.75
+    },
+    "↑&nbsp;Shift",
+    {
+      "x": 1.25,
+      "a": 7
+    },
+    "↑",
+    {
+      "x": 1.25,
+      "a": 4
+    },
+    "1\nEnd",
+    "2\n↓",
+    "3\nPg Dn",
+    {
+      "p": "DCS",
+      "h": 2
+    },
+    "⌤ Enter"
+  ],
+  [
+    {
+      "p": "DCS R1"
+    },
+    "Redo\n<i class='fa fa-rotate-right'></i>",
+    {
+      "x": 0.25,
+      "w": 1.5
+    },
+    "Control\n\n⌃",
+    "Alt\nOption\n⌥",
+    {
+      "w": 1.5
+    },
+    "♦︎\nCommand\n⌘&nbsp;&nbsp;",
+    {
+      "p": "DCS SPACE",
+      "a": 7,
+      "w": 6
+    },
+    "",
+    {
+      "p": "DCS R1",
+      "a": 4,
+      "w": 1.5
+    },
+    "♦︎\nCommand\n⌘&nbsp;&nbsp;",
+    "Fn",
+    "Alt\nOption\n⌥",
+    {
+      "w": 1.5
+    },
+    "Control\n\n⌃",
+    {
+      "x": 0.25,
+      "a": 7
+    },
+    "←",
+    "↓",
+    "→",
+    {
+      "x": 0.25,
+      "a": 4,
+      "w": 2
+    },
+    "0\nIns",
+    "&nbsp;.\nDel"
+  ]
+]
